@@ -1,7 +1,7 @@
 English:
--👋 Hi, I'm @Kaczka and I come from Poland.
--👀 I'm interested in automation and machine learning.
--🌱 I'm learning Java script and Python.
+-👋 Hi, I'm @Kaczka and I come from Poland
+-👀 I'm interested in automation and machine learning
+-🌱 I'm learning Java script and Python
 
 Polish:
 - 👋 Cześć jestem @Kaczka i pochodzę z Polski
